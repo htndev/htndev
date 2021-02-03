@@ -20,7 +20,7 @@ Tech stack:
 - HTML / CSS / Preprocessors
 - Webpack
 - GraphQL, REST
-- T-SQL, MySQL, MongoDB
+- PostgreSQL, MongoDB
 - Docker
 
 ## 📈 My GitHub Stats:
