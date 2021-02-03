@@ -32,4 +32,4 @@ Tech stack:
 ## 🌎 Languages
 - Russian (native speaker)
 - Ukrainian (native speaker)
-- English (intermediate)
+- English (upper-intermediate)
