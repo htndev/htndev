@@ -10,7 +10,7 @@
 
 I'm fullstack developer.
 
-Working at [EasyGenerator](https://github.com/easygenerator)
+Working at [Infopulse](https://www.infopulse.com)
 
 Tech stack:
 - JavaScript
@@ -24,10 +24,7 @@ Tech stack:
 - Docker
 
 ## 📈 My GitHub Stats:
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=htndev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htndev&theme=dracula&layout=compact" />
-
-## 📊 This Week I Spent My Time On:
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=htndev&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=htndev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
 
 ## 🌎 Languages
 - Russian (native speaker)
