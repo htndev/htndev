@@ -15,6 +15,7 @@ Working at [Infopulse](https://www.infopulse.com)
 Tech stack:
 - JavaScript
 - TypeScript
+- ReactJS
 - VueJS
 - NodeJS
 - HTML / CSS / Preprocessors
@@ -30,3 +31,4 @@ Tech stack:
 - Russian (native speaker)
 - Ukrainian (native speaker)
 - English (upper-intermediate)
+- Polish (elementary)
