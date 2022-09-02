@@ -10,7 +10,7 @@
 
 I'm fullstack developer.
 
-Working at [Infopulse](https://www.infopulse.com)
+Working at [Paramount](https://www.paramount.com/)
 
 Tech stack:
 - JavaScript
