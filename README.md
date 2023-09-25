@@ -7,7 +7,7 @@
 
 ## 💬 About
 
-I'm fullstack developer.
+I'm a Full Stack developer.
 
 Working at [Paramount](https://www.paramount.com/)
 
@@ -22,12 +22,13 @@ Tech stack:
 - GraphQL, REST
 - PostgreSQL, MongoDB
 - Docker
+- Go Lang
 
 ## 📈 My GitHub Stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=htndev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
 
 ## 🌎 Languages
-- Russian (native speaker)
 - Ukrainian (native speaker)
+- Russian (native speaker)
 - English (upper-intermediate)
 - Polish (elementary)
