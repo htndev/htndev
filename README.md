@@ -1,7 +1,4 @@
-<h1 align="center">Sup <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Alex</h1>
-<h3 align="center">I'm a software engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=htndev&label=Profile%20views&color=0e75b6&style=flat" alt="htndev" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A3DD4&center=true&width=435&lines=Hey%2C+I'm+Alex" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
