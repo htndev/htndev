@@ -33,7 +33,6 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
   <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vitest-dev/vitest/refs/heads/main/docs/public/logo.svg" alt="vitest" width="40" height="40"/> </a>
-  <a href="https://mswjs.io/" target="_blank" rel="noreferrer"> <img src="https://mswjs.io/_astro/msw.ChZQPzKa.svg" alt="msw" width="40" height="40"/> </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=htndev&show_icons=true&locale=en&layout=compact" alt="htndev" /></p>
 
